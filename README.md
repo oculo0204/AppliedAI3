@@ -64,6 +64,8 @@
 ## 📚 문서 모음
 
 - [📝 회의록 모음](./docs/meeting-notes/)
+- [프론트 모음] https://github.com/20221171/AI
+- [백엔드 링크] https://github.com/wonee1/Puppysense_BE
 
 ## 📈 성과 지표 (Achievement Metrics)
 **2025 주요 KPI**
