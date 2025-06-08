@@ -64,6 +64,8 @@
 ## 📚 문서 모음
 
 - [📝 회의록 모음](./docs/meeting-notes/)
+- [🚀 colab, local용 ipynb](./ipynb/)
+- [🚀 학습된 model](./models/)
 - [프론트 모음] https://github.com/20221171/AI
 - [백엔드 링크] https://github.com/wonee1/Puppysense_BE
 
